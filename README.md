@@ -2,4 +2,4 @@
 
 ## Part of the Odin Project Curriculum
 
-This project was developed using HTML and Sass
+This project was developed using HTML and CSS
