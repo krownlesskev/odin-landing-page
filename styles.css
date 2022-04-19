@@ -34,3 +34,27 @@ nav ul li a {
 nav ul li a:hover {
     text-decoration: underline;
 }
+
+/* section 1 */
+.section-1 {
+    display: flex;
+    justify-content: space-around;
+    margin: 100px;
+}
+
+.section-1 h1 {
+    font-size: 48px;
+}
+
+.section-1 p {
+    font-size: 18px;
+}
+
+.placeholder {
+    display: flex;
+    height: 200px;
+    width: 500px;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid red;
+}
