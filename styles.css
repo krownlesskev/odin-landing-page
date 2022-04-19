@@ -1,6 +1,36 @@
 * {
     padding: 0;
     margin: 0;
-    background-color: #1F2937
+    background-color: #1F2937;
+    color: #F9FAF8;
 }
 
+
+/* navigation */
+nav {
+    display: flex;
+    justify-content: space-around;
+    margin: 20px;
+}
+
+nav h3 {
+    font-size: 48px;
+    font-weight: bold;
+}
+
+nav ul {
+    display: flex;
+    list-style: none;
+}
+
+nav ul li {
+    margin: 10px;
+}
+
+nav ul li a {
+    text-decoration: none;
+}
+
+nav ul li a:hover {
+    text-decoration: underline;
+}
