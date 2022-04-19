@@ -4,28 +4,3 @@
     background-color: #1F2937
 }
 
-/* Navigation Styling */
-.navigation-bar {
-    margin: 20px;
-    display: flex;
-    justify-content: space-around;
-    color: #F9FAF8;
-}
-
-.navigation-bar ul {
-    list-style: none;
-    display: flex;
-}
-
-.navigation-bar li {
-    margin-right: 20px;
-}
-
-.navigation-bar a {
-    color: #F9FAF8;
-    text-decoration: none;
-}
-
-.navigation-bar a:hover {
-    text-decoration: underline;
-}
