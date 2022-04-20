@@ -140,9 +140,9 @@ header ul li a:hover {
 }
 
 .quote {
-    margin: 100px 100px 0 100px;
+    margin: 100px;
     font-size: 36px;
-    font-weight: lighter;
+    font-weight:lighter;
     font-style: italic;
     width: 750px;
 }
