@@ -93,3 +93,37 @@ header ul li a:hover {
     border: 1px solid #F9FAF8;
     cursor: pointer;
 }
+
+.section-2 {
+    background-color: #E5E7EB;
+    color: #1F2937;
+}
+
+.information-header-text {
+    margin: 50px;
+    text-align: center;
+    font-size: 36px;
+    font-weight: bolder;
+}
+
+.information-boxes-container {
+    display: flex;
+    justify-content: center;
+}
+
+.information-box {
+    margin: 0 25px;
+}
+
+.box {
+    height: 150px;
+    width: 150px;
+    border: 5px solid #3882F6;
+    border-radius: 10px;
+}
+
+.box-text {
+    margin: 10px 0;
+    width: 150px;
+    text-align: center;
+}
